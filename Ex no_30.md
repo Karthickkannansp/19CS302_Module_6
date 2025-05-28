@@ -1,5 +1,5 @@
 # EX 30 C program to add two integer elements in an array using realloc() and that array already has three elements.
-## DATE:
+## DATE:10/04/2025
 ## AIM:
 To write a C program to add two integer elements in an array using realloc() and that array already has three elements.
 
@@ -13,6 +13,9 @@ To write a C program to add two integer elements in an array using realloc() and
 
 ## Program:
 ```
+program to add two integer elements in an array using realloc() and that array already has three elements.
+Developed by Karthick Kannan SP
+Register number:212222060114
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
