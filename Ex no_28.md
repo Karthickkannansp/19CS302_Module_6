@@ -1,5 +1,5 @@
 # EX 28 C program that demonstrates the use of enum (enumeration) type to define and use named integer constants.
-## DATE:
+## DATE:10/04/2025
 ## AIM:
 To write a C program that demonstrates the use of enum (enumeration) type to define and use named integer constants.
 
@@ -12,6 +12,9 @@ To write a C program that demonstrates the use of enum (enumeration) type to def
 
 ## Program:
 ```
+To write a C program that demonstrates the use of enum (enumeration) type to define and use named integer constants.
+Developed by Karthick Kannan SP
+Register number:212222060114
 #include <stdio.h>
 enum weekdays {
  Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
