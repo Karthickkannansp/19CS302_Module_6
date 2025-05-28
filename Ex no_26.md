@@ -1,5 +1,5 @@
 # EX 26 C program demonstrating a self-referential structure where an employee has a pointer to their manager.
-## DATE:
+## DATE:10/04/2025
 ## AIM:
 To write a C program to demonstrate a self-referential structure where an employee has a pointer to their manager.
 
@@ -12,6 +12,9 @@ To write a C program to demonstrate a self-referential structure where an employ
 
 ## Program:
 ```
+program to demonstrate a self-referential structure where an employee has a pointer to their manager
+Developed by Karthick Kannan SP
+Register number:212222060114
 #include <stdio.h>
 #include <stdlib.h>
 struct Employee {
