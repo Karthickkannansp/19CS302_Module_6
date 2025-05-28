@@ -1,5 +1,5 @@
 # EX 29 C program to create two float variables using calloc() and find minimum among them.
-## DATE:
+## DATE:10/04/2025
 ## AIM:
 To write a C program to create two float variables using calloc() and find minimum among them.
 
@@ -13,6 +13,9 @@ To write a C program to create two float variables using calloc() and find minim
 
 ## Program:
 ```
+program to create two float variables using calloc() and find minimum among them
+Developed by Karthick Kannan SP
+Register number:212222060114
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
